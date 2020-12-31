@@ -3,6 +3,8 @@ export module Kanji;
 import KanjiComponent;
 import <string>;
 
+// TODO Get Request in C++
+
 namespace me::kotlia
 {
 
